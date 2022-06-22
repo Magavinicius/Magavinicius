@@ -1,13 +1,15 @@
 
-## 💜 Olá, meu nome é <strong>Vinicius !</strong>
+## Olá, meu nome é <strong>Vinicius !</strong> 💜
+
+<img align="center" width="250" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" /><br/>
+
 
 > 👨🏾‍💻 Hoje trabalho como Subject Matter Expert e curso Sistema de Informação, mas nas horas vagas estudo: AWS, Python e Flutter
 
-----
 
+<br/>
 
-
-## 🚀 Minhas Skills
+## Minhas Skills 🚀
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
@@ -16,10 +18,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
 
-### 
-<img align="center" width="250" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" />
+<br/>
 
 ----
+## Git Status <img align="center" width="75" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" /><br/> 
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
