@@ -3,9 +3,9 @@
 
 > 👨🏾‍💻 Hoje trabalho como Subject Matter Expert e curso Sistema de Informação, mas nas horas vagas estudo: AWS, Python e Flutter
 
-<img align="center" width="500" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" />
-
 ----
+
+
 
 ## 🚀 Minhas Skills
 
@@ -17,7 +17,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
 
 ### 
+<img align="center" width="250" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" />
 
+----
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
