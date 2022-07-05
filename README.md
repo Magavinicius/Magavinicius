@@ -21,7 +21,7 @@
 <br/>
 
 ----
-## Git Status <img align="center" width="75" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" /><br/> 
+## Git Status <img align="center" width="75" img src="https://user-images.githubusercontent.com/63367957/177240262-871321e7-f4fc-4d74-af75-676db6bf6f98.png" /><br/> 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
