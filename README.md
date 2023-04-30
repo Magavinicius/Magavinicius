@@ -4,7 +4,7 @@
 <img align="center" width="250" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" /><br/>
 
 
-> 👨🏾‍💻 Hoje trabalho como Subject Matter Expert e curso Sistema de Informação, mas nas horas vagas estudo: AWS, Python e Flutter
+> 👨🏾‍💻 Sou Subject Matter Expert, formado em Sistema de Informação, nas horas vagas estudo: AWS e Java.
 
 
 <br/>
