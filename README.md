@@ -1,8 +1,8 @@
 
-## Olá, meu nome é <strong>Vinicius !</strong>
-##### mas pode me chamar de magalhães 
+## Olá, meu nome é Vinicius !
 
 <img align="center" width="250" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" /><br/>
+##### Pode me chamar de Magalhães, Maga ou Vini
 
 <br>
 
